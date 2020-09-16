@@ -564,77 +564,80 @@
 	<section class="box-feedback">
 		<div class="container">
 			<div class="title-news text-center"><h2 class="text-uppercase">Khách hàng nói gì về chúng tôi</h2></div>
-			<div class="slide-feed">
-				<div class="item">
-					<div class="avarta"><a href=""><img src="images/pr-slide.webp" class="img-fluid" alt=""></a></div>
-					<div class="info">
-						<div class="vote">
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
+			<div class="content-feed">
+				<div class="slide-feed">
+					<div class="item">
+						<div class="avarta"><a href=""><img src="images/pr-slide.webp" class="img-fluid" alt=""></a></div>
+						<div class="info">
+							<div class="vote">
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+							</div>
+							<h4>Jacqueline C. from New York, NY bought a Timber Pebble Gray Sofa</h4>
+							<div class="review-snippet">Buying experience, customer service, delivery and product have all been great - was my first Article purchase and I will confidently buy again! </div>
 						</div>
-						<h4>Jacqueline C. from New York, NY bought a Timber Pebble Gray Sofa</h4>
-						<div class="review-snippet">Buying experience, customer service, delivery and product have all been great - was my first Article purchase and I will confidently buy again! </div>
 					</div>
-				</div>
-				<div class="item">
-					<div class="avarta"><a href=""><img src="images/pr-slide.webp" class="img-fluid" alt=""></a></div>
-					<div class="info">
-						<div class="vote">
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
+					<div class="item">
+						<div class="avarta"><a href=""><img src="images/pr-slide.webp" class="img-fluid" alt=""></a></div>
+						<div class="info">
+							<div class="vote">
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+							</div>
+							<h4>Jacqueline C. from New York, NY bought a Timber Pebble Gray Sofa</h4>
+							<div class="review-snippet">Buying experience, customer service, delivery and product have all been great - was my first Article purchase and I will confidently buy again! </div>
 						</div>
-						<h4>Jacqueline C. from New York, NY bought a Timber Pebble Gray Sofa</h4>
-						<div class="review-snippet">Buying experience, customer service, delivery and product have all been great - was my first Article purchase and I will confidently buy again! </div>
 					</div>
-				</div>
-				<div class="item">
-					<div class="avarta"><a href=""><img src="images/pr-slide.webp" class="img-fluid" alt=""></a></div>
-					<div class="info">
-						<div class="vote">
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
+					<div class="item">
+						<div class="avarta"><a href=""><img src="images/pr-slide.webp" class="img-fluid" alt=""></a></div>
+						<div class="info">
+							<div class="vote">
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+							</div>
+							<h4>Jacqueline C. from New York, NY bought a Timber Pebble Gray Sofa</h4>
+							<div class="review-snippet">Buying experience, customer service, delivery and product have all been great - was my first Article purchase and I will confidently buy again! </div>
 						</div>
-						<h4>Jacqueline C. from New York, NY bought a Timber Pebble Gray Sofa</h4>
-						<div class="review-snippet">Buying experience, customer service, delivery and product have all been great - was my first Article purchase and I will confidently buy again! </div>
 					</div>
-				</div>
-				<div class="item">
-					<div class="avarta"><a href=""><img src="images/pr-slide.webp" class="img-fluid" alt=""></a></div>
-					<div class="info">
-						<div class="vote">
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
+					<div class="item">
+						<div class="avarta"><a href=""><img src="images/pr-slide.webp" class="img-fluid" alt=""></a></div>
+						<div class="info">
+							<div class="vote">
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+							</div>
+							<h4>Jacqueline C. from New York, NY bought a Timber Pebble Gray Sofa</h4>
+							<div class="review-snippet">Buying experience, customer service, delivery and product have all been great - was my first Article purchase and I will confidently buy again! </div>
 						</div>
-						<h4>Jacqueline C. from New York, NY bought a Timber Pebble Gray Sofa</h4>
-						<div class="review-snippet">Buying experience, customer service, delivery and product have all been great - was my first Article purchase and I will confidently buy again! </div>
 					</div>
-				</div>
-				<div class="item">
-					<div class="avarta"><a href=""><img src="images/pr-slide.webp" class="img-fluid" alt=""></a></div>
-					<div class="info">
-						<div class="vote">
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
-							<i class="fa fa-star"></i>
+					<div class="item">
+						<div class="avarta"><a href=""><img src="images/pr-slide.webp" class="img-fluid" alt=""></a></div>
+						<div class="info">
+							<div class="vote">
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+								<i class="fa fa-star"></i>
+							</div>
+							<h4>Jacqueline C. from New York, NY bought a Timber Pebble Gray Sofa</h4>
+							<div class="review-snippet">Buying experience, customer service, delivery and product have all been great - was my first Article purchase and I will confidently buy again! </div>
 						</div>
-						<h4>Jacqueline C. from New York, NY bought a Timber Pebble Gray Sofa</h4>
-						<div class="review-snippet">Buying experience, customer service, delivery and product have all been great - was my first Article purchase and I will confidently buy again! </div>
-					</div>
+					</div> 
 				</div>
+				<div class="readmore read-load text-center"><a href="">Đọc thêm đánh giá</a></div>
 			</div>
 		</div>
 	</section>
@@ -650,27 +653,12 @@
 				<div class="item"><a href="javascript:void(0)"><img src="images/part-6.jpg" class="img-fluid" alt=""></a></div>
 				<div class="item"><a href="javascript:void(0)"><img src="images/part-3.jpg" class="img-fluid" alt=""></a></div>
 			</div>
-			<div class="readmore text-center"><a href="">Xem tất cả báo chí</a></div>
+			<div class="readmore read-load text-center"><a href="">Xem tất cả báo chí</a></div>
 		</div>
 	</section>
-	<section class="regis-box">
-		<div class="container">
-			<div class="row align-items-center">
-				<div class="col-md-6">
-					<h4>Nhận thông tin sản phẩm mới và chương trình khuyến mãi.</h4>
-					<p>Nếu cảm thấy phiền, bạn có thể hủy đăng ký bất cứ lúc nào.</p>
-				</div>
-				<div class="col-md-6">
-					<div class="form-regis">
-						<ul class="list-inline">
-							<li class="list-inline-item"><input type="text" placeholder="Email của bạn"><img src="images/send.svg" class="img-fluid" alt=""></li>
-							<li class="list-inline-item"><button>ĐĂNG KÝ NHẬN TIN</button></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
+	
+
+	<?php include 'send-mail.php';?>
 </main>  
 <?php include 'footer.php';?>    
     

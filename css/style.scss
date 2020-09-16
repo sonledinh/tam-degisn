@@ -131,6 +131,51 @@ body {
 }
 // end style header
 
+// style footer
+footer {
+    padding: 60px 0;
+    background: #878787;
+    .logo {
+        margin-bottom: 60px;
+    }
+} 
+.item-ft {
+    h3 {
+        font-weight: bold;
+        font-size: 18px;
+        color: #fff;
+        margin-bottom: 10px;
+    }
+    a {
+        font-weight: 300;
+        color: #fff;
+        font-size: 14px;
+    }
+    ul {
+        li {
+            font-weight: 300;
+            color: #fff;
+            font-size: 14px;
+            list-style: none;
+            position: relative;
+            padding: 4px 0;
+        }
+    }
+    .place {
+        margin-bottom: 30px;
+        img {
+            margin-right: 10px;
+        }
+        &:last-child {
+            margin-bottom: 0;
+        }
+        h3 {
+            font-size: 16px;
+        }
+    }
+}
+// end style footer
+
 // style main
 .slick-slider {
     margin: 0;
@@ -526,11 +571,12 @@ body {
 .box-feedback {
     padding: 50px 0 0 0;
 }
-
-.slide-feed {
-    margin: 0 -15px 50px -15px;
+.content-feed {
     border-bottom: 1px solid #ddd;
     padding-bottom: 50px;
+}
+.slide-feed {
+    margin: 0 -15px 50px -15px;
     .item {
         padding: 0 15px;
     }
@@ -566,13 +612,16 @@ body {
 }
 
 .box-partner {
-    padding-bottom: 50px;
+    padding: 50px 0;
+    .readmore {
+        padding-top: 20px;
+    }
 }
 
 .regis-box {
     background: #F2F2F2;
     padding: 45px 0;
-    h4 {
+    h4 { 
         font-size: 16px;
         font-weight: normal;
         color: #000000;
@@ -594,10 +643,10 @@ body {
         position: relative;
         img {
             position: absolute;
-            top: 10px;
+            top: 10px; 
             right: 10px;
         }
-    }
+    } 
     input {
         width: 325px;
         padding: 0 15px;
@@ -605,8 +654,8 @@ body {
         height: 47px;
         border: 0;
         border-radius: 5px;
-    }
-    button {
+    }  
+    button { 
         height: 47px;
         font-size: 14px;
         border: 1px solid $yellow;
@@ -621,4 +670,184 @@ body {
         }
     }
 }
+
+.read-load {
+    a {
+        font-size: 12px;
+        color: $red;
+        border-bottom: 1px solid;
+    }
+}
+
+.breadcrumbs {
+    position: relative;
+    .info-bread {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        display: flex;
+        align-items: center;
+        color: #8A8A8A;
+        h2 {
+            letter-spacing: 0.1em;
+            font-size: 32px;
+            font-weight: normal;
+            margin-bottom: 10px;
+        }
+        a {
+            color: #8A8A8A;
+            font-size: 12px;
+        }
+        li {
+            padding-right: 15px;
+            position: relative;
+            &:after {
+                content: "/";
+                position: absolute;
+                right: -1px;
+                top: 1px;
+            }
+            &:last-child {
+                padding-right: 0;
+                &:after{
+                    display: none;
+                }
+            }
+        }
+    }
+}
+
+.title-cate {
+    font-size: 22px;
+    font-weight: 500;
+    color: #787878;
+    margin-bottom: 10px;
+}
+.notice-log {
+    font-size: 18px;
+    a {
+        color: $yellow;
+    }
+}
+.srv-about {
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+
+.box-user {
+    max-width: 730px;
+    margin: 0 auto;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    .avarta {
+        flex: 0 0 150px;
+        margin-left: 80px;
+    }
+}
+.regis {
+    flex: 0 0 calc(100% - 230px);
+    .item {
+        margin-bottom: 30px;
+        &:last-child {
+            margin-bottom: 0;
+        }
+        input {
+            width: 100%;
+            height: 50px;
+            font-size: 18px;
+            padding: 0 15px;
+            border: 1px solid #E5E5E5;
+        }
+        button {
+            font-size: 18px;
+            border: 0;
+            height: 50px;
+            min-width: 280px;
+            cursor: pointer;
+            background: $yellow;
+            &:hover {
+                background: $red;
+                color: #fff;
+            }
+        }
+    }
+}
+.other-acc {
+    padding: 50px 0;
+    ul {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        margin: 0 -15px;
+        li {
+            list-style: none;
+            box-sizing: border-box;
+            padding: 0 15px;
+            img {
+                min-height: 66px;
+            }
+        }
+    }
+}
+.title-black {
+    font-size: 24px;
+    font-weight: bold;
+    color: #000000;
+    letter-spacing: 0.05em;
+    margin-bottom: 15px;
+}
+#account {
+    padding-top: 70px;
+}
+.box-login {
+    max-width: 747px;
+    border: 1px solid #8A8A8A;
+    margin: 0 auto;
+    padding: 25px 60px;
+    color: #000000;
+    font-size: 14px;
+    p {
+        margin-bottom: 8px;
+    }
+    .login-mail {
+        padding: 10px 0;
+        p {
+            margin-bottom: 20px;
+        }
+        input {
+            width: 250px;
+            height: 30px;
+            display: block;
+            margin: 0 auto;
+            border: 1px solid #8A8A8A;
+            padding: 0 10px;
+        }
+        button {
+            margin-top: 25px;
+            width: 200px;
+            border-radius: 30px;
+            border: 0;
+            height: 30px;
+            font-size: 13px;
+            background: $yellow;
+            color: #fff;
+            cursor: pointer;
+            &:hover {
+                background: $red;
+            }
+        }
+    }
+}
+.login-fb {
+    padding: 10px 0 30px 0;
+}
 // end style main     
+
+@import "cart.scss";
+@import "contact.scss";
+@import "detail.scss";

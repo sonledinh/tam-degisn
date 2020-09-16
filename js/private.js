@@ -129,7 +129,6 @@ $('.slide-feed').slick({
     ]
 });  
 
-
 $('.slide-part').slick({
     autoplay: false,
     arrow: false,
@@ -137,6 +136,31 @@ $('.slide-part').slick({
     dots: false,
     slidesToShow: 6,
     slidesToScroll: 3, 
+    prevArrow: '',
+    nextArrow: '',
+    responsive: [
+        {
+            breakpoint: 767,
+            settings: {
+                slidesToShow: 1,
+            }
+        },
+        {
+            breakpoint: 480,
+            settings: {
+                slidesToShow: 1,
+            }
+        }
+    ]
+});  
+
+$('.slide-other').slick({
+    autoplay: false,
+    arrow: false,
+    infinite: true,
+    dots: false,
+    slidesToShow: 5,
+    slidesToScroll: 2, 
     prevArrow: '',
     nextArrow: '',
     responsive: [
