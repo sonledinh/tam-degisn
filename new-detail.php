@@ -95,11 +95,13 @@
 							<div class="title-bar text-center">DANH MỤC </div>
 							<div class="cate-bar">
 								<ul>
-									<li><a href="">TRUNG TÂM TRỢ GIÚP</a></li>
-									<li><a href="">HƯỚNG DẪN MUA HÀNG</a></li>
-									<li><a href="">GIAO HÀNG VÀ ĐỔI TRẢ</a></li>
-									<li><a href="">CHÍNH SÁCH BẢO HÀNH & BẢO TRÌ</a></li>
-									<li><a href="">CÂU HỎI THƯỜNG GẶP</a></li>
+									<li><a href="">TRANG CHỦ</a></li>
+									<li><a href="">TIN TỨC</a></li>
+									<li><a href="">KIẾN THỨC</a></li>
+									<li><a href="">DỰ ÁN</a></li>
+									<li><a href="">ĐỐI TÁC</a></li>
+									<li><a href="">BÁO CHÍ</a></li>
+									<li><a href="">TUYỂN DỤNG</a></li>
 									<li class="text-center"><a href="javascript:void(0)"><i class="fa fa-angle-down"></i></a></li>
 								</ul>
 							</div>

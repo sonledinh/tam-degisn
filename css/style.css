@@ -73,8 +73,10 @@ body {
     margin-bottom: 0;
     outline: none !important; }
   body a {
-    transition: .3s all;
+    transition: .3s all !important;
     color: #000000; }
+    body a:hover {
+      color: #FFA45B; }
   body ul {
     padding: 0;
     margin: 0; }
@@ -935,6 +937,8 @@ footer {
 .detail {
   color: #000000;
   font-size: 14px; }
+  .detail img {
+    max-width: 100%; }
   .detail p {
     margin-bottom: 10px; }
     .detail p img {
@@ -1005,5 +1009,269 @@ footer {
 
 .side-bar {
   max-width: 265px; }
+
+.title-bar {
+  color: #787878;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 10px; }
+
+.cate-bar {
+  border: 1px solid #E5E5E5;
+  padding: 20px 10px;
+  margin-bottom: 40px; }
+  .cate-bar ul li {
+    list-style: none;
+    padding: 5px 0; }
+    .cate-bar ul li:first-child a:after, .cate-bar ul li:last-child a:after {
+      display: none; }
+  .cate-bar a {
+    display: block;
+    font-size: 18px;
+    font-weight: 500;
+    color: #787878;
+    position: relative;
+    padding-left: 20px; }
+    .cate-bar a:hover {
+      color: #FFA45B; }
+    .cate-bar a:after {
+      content: "-";
+      position: absolute;
+      left: 0;
+      top: -1px; }
+    .cate-bar a i {
+      position: absolute;
+      left: calc(50% - 5px); }
+
+.side-bar {
+  position: sticky;
+  top: 20px; }
+
+.hot-bar {
+  border: 1px solid #E5E5E5;
+  padding: 20px 10px; }
+
+.list-hot .item {
+  display: flex;
+  width: 100%;
+  margin-bottom: 10px; }
+  .list-hot .item .avarta {
+    flex: 0 0 90px;
+    margin-right: 10px; }
+  .list-hot .item .info {
+    position: relative; }
+    .list-hot .item .info h5 a {
+      font-size: 14px;
+      display: block;
+      line-height: 1.3; }
+.list-hot .readmore a {
+  font-size: 13px;
+  position: absolute;
+  left: 0;
+  bottom: 0; }
+
+.new-hot .load-more {
+  padding-top: 10px; }
+  .new-hot .load-more a {
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.05em;
+    border-bottom: 1px solid; }
+
+.item-support .avarta {
+  margin-bottom: 5px; }
+.item-support .info a {
+  display: inline-block;
+  font-size: 18px;
+  color: #787878; }
+  .item-support .info a i {
+    position: relative;
+    margin-left: 10px; }
+  .item-support .info a:hover {
+    color: #FFA45B; }
+
+.list-support {
+  margin-bottom: 40px; }
+  .list-support .col-md-6 {
+    margin-bottom: 30px; }
+
+.news-thumbs {
+  position: relative;
+  margin-bottom: 70px; }
+  .news-thumbs .info {
+    position: absolute;
+    width: 450px;
+    padding: 20px;
+    border-radius: 0 20px 0 0;
+    bottom: 0;
+    left: 20px;
+    background: rgba(255, 255, 255, 0.9); }
+  .news-thumbs h1 {
+    display: block;
+    letter-spacing: 2px;
+    font-weight: 300;
+    font-size: 1.6em;
+    line-height: 1.4;
+    margin-bottom: 10px; }
+
+ul.cate-date {
+  font-size: 14px;
+  margin-bottom: 10px; }
+  ul.cate-date a {
+    font-weight: 600;
+    color: #ff6458; }
+
+.desc-new {
+  margin-bottom: 20px; }
+
+.button-article {
+  display: inline-flex;
+  height: 27px;
+  font-size: 14px;
+  align-items: center;
+  background: #fff;
+  padding: 0 15px;
+  border-radius: 30px;
+  color: #ff6458;
+  border: 1px solid #ff6458; }
+  .button-article:hover {
+    color: #fff;
+    background: #ff6458; }
+
+.item-news {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  border-top: 1px solid #ddd;
+  margin-bottom: 20px; }
+  .item-news .avarta {
+    flex: 0 0 450px; }
+  .item-news .info {
+    padding: 0 50px; }
+    .item-news .info h3 a {
+      display: block;
+      font-size: 20px;
+      font-weight: 300;
+      margin-bottom: 15px; }
+    .item-news .info .desc {
+      margin-bottom: 15px; }
+
+.pagination {
+  max-width: 600px;
+  margin: 0 auto;
+  border-top: 1px solid #aaa;
+  padding-top: 30px;
+  margin-top: 50px; }
+  .pagination li {
+    padding: 0 4px; }
+  .pagination a {
+    color: #8A8A8A;
+    font-weight: bold; }
+    .pagination a.active {
+      color: #FFA45B; }
+
+.slider-nav {
+  max-width: 400px;
+  margin: 0 -5px;
+  position: relative;
+  left: 30px; }
+  .slider-nav .slick-arrow {
+    top: calc(50% - 25px); }
+
+.clc {
+  padding: 0 5px;
+  box-sizing: border-box;
+  cursor: pointer; }
+  .clc img {
+    width: 100%;
+    height: 98px;
+    object-fit: cover;
+    border: 1px solid #ddd; }
+
+.slide-thumb {
+  margin-bottom: 80px; }
+  .slide-thumb .slider-for {
+    border: 1px solid #ddd;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 30px; }
+
+.add-cart a {
+  display: flex;
+  height: 40px;
+  width: 40px;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #ddd; }
+
+.thumbs-top {
+  position: relative; }
+  .thumbs-top .pr-color {
+    position: absolute;
+    width: 100%;
+    left: 20px;
+    bottom: 20px; }
+
+.pr-color a {
+  display: flex;
+  position: relative;
+  width: 25px;
+  height: 25px;
+  border-radius: 100%; }
+  .pr-color a img {
+    border-radius: 100%; }
+  .pr-color a.active:after {
+    content: "";
+    width: 35px;
+    height: 35px;
+    border: 1px solid #ff6458;
+    border-radius: 100%;
+    position: absolute;
+    top: -5px;
+    left: -5px; }
+
+.detail-prd {
+  margin-bottom: 80px; }
+  .detail-prd h1 {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: 0.05em;
+    color: #878787;
+    border-bottom: 1px solid #8A8A8A;
+    padding-bottom: 10px;
+    margin-bottom: 10px; }
+  .detail-prd ul li {
+    list-style: none;
+    padding: 3px 0;
+    font-size: 14px; }
+  .detail-prd .total {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 21px;
+    letter-spacing: 0.1em;
+    color: #FFA45B;
+    padding: 20px 0 0 0; }
+
+.tab-prd {
+  padding-bottom: 100px;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 30px; }
+  .tab-prd .nav li a {
+    font-size: 18px;
+    color: gray !important;
+    border: 0 !important;
+    font-weight: 500;
+    padding: 12px 20px; }
+    .tab-prd .nav li a.active {
+      background: #F2F2F2; }
+  .tab-prd .tab-content {
+    background: #F2F2F2;
+    padding: 40px 20px;
+    font-size: 14px; }
+    .tab-prd .tab-content p {
+      margin-bottom: 10px; }
+      .tab-prd .tab-content p:last-child {
+        margin-bottom: 0; }
 
 /*# sourceMappingURL=style.css.map */

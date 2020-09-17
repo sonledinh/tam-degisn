@@ -179,3 +179,47 @@ $('.slide-other').slick({
     ]
 });  
 
+$('.slider-for').slick({
+    autoplay: false,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    arrows: false,
+    fade: true,
+    asNavFor: '.slider-nav',
+});
+$('.slider-nav').slick({
+    autoplay:false,
+    arrow:false,
+    slidesToShow: 4,
+    slidesToScroll: 1,
+    responsive: [
+        {
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 4,
+                slidesToScroll: 3,
+                infinite: true,
+                dots: true
+            }
+        },
+        {
+            breakpoint: 600,
+            settings: {
+                slidesToShow: 4,
+                slidesToScroll: 2
+            }
+        },
+        {
+            breakpoint: 480,
+            settings: {
+                slidesToShow: 4,
+                slidesToScroll: 1
+            }
+        }
+    ],
+    asNavFor: '.slider-for',
+    dots: false,
+    focusOnSelect: true,
+    prevArrow: '<button class="prev"><i class="fa fa-angle-left"></i></button>',
+    nextArrow: '<button class="next"><i class="fa fa-angle-right"></i></button>',
+});
