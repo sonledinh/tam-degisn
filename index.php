@@ -18,25 +18,25 @@
 	<section class="box-srv">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-3">
+				<div class="col-md-3 col-sm-6">
 					<div class="item-srv">
-						<div class="icon"><img src="images/srv-1.png" class="img-fluid" alt=""></div>
+						<div class="icon"><img src="images/srv-1-1.png" class="img-fluid" alt=""></div>
 						<div class="desc">Thiết Kế Độc Quyền</div>
 					</div>
 				</div>
-				<div class="col-md-3">
+				<div class="col-md-3 col-sm-6">
 					<div class="item-srv">
-						<div class="icon"><img src="images/srv-2.png" class="img-fluid" alt=""></div>
+						<div class="icon"><img src="images/srv-2-1.png" class="img-fluid" alt=""></div>
 						<div class="desc">Chất Lượng Đẳng Cấp</div>
 					</div>
 				</div>
-				<div class="col-md-3">
+				<div class="col-md-3 col-sm-6">
 					<div class="item-srv">
 						<div class="icon"><img src="images/srv-3.png" class="img-fluid" alt=""></div>
 						<div class="desc">Bảo Trì Vĩnh Viễn</div>
 					</div>
 				</div>
-				<div class="col-md-3">
+				<div class="col-md-3 col-sm-6">
 					<div class="item-srv">
 						<div class="icon"><img src="images/srv-4.png" class="img-fluid" alt=""></div>
 						<div class="desc">Bảo Hành 5 Năm</div>
@@ -51,7 +51,7 @@
 				<ul class="list-inline tab-prd nav nav-pills">
 					<li class="list-inline-item"><h2 class="text-uppercase">Sản phẩm yêu thích</h2></li>
 					<li class="list-inline-item"><a href="#favorite-1" data-toggle="tab" class="active">Ghế</a></li>
-					<li class="list-inline-item"><a href="#favorite-2" data-toggle="tab" class="">Bàn</a></li>
+					<li class="list-inline-item"><a href="#favorite-2" data-toggle="tab" class="">Bàn</a></li> 
 					<li class="list-inline-item"><a href="#favorite-3" data-toggle="tab" class="">Tủ</a></li>
 					<li class="list-inline-item"><a href="#favorite-4" data-toggle="tab" class="">Giường</a></li>
 				</ul>
@@ -295,7 +295,7 @@
 									<div class="avarta"><a href=""><img src="images/small-1.jpg" class="img-fluid" alt=""></a></div>
 									<div class="info">
 										<h4><a href="">Solea Canyo Tan Left Arm Module</a></h4>
-										<div class="price">$999</div>
+										<div class="price text-left">$999</div>
 									</div>
 								</div>
 							</div>
@@ -304,7 +304,7 @@
 									<div class="avarta"><a href=""><img src="images/small-2.jpg" class="img-fluid" alt=""></a></div>
 									<div class="info">
 										<h4><a href="">Solea Canyo Tan Left Arm Module</a></h4>
-										<div class="price">$999</div>
+										<div class="price text-left">$999</div>
 									</div>
 								</div>
 							</div>
@@ -313,7 +313,7 @@
 									<div class="avarta"><a href=""><img src="images/small-1.jpg" class="img-fluid" alt=""></a></div>
 									<div class="info">
 										<h4><a href="">Solea Canyo Tan Left Arm Module</a></h4>
-										<div class="price">$999</div>
+										<div class="price text-left">$999</div>
 									</div>
 								</div>
 							</div>
@@ -322,7 +322,7 @@
 									<div class="avarta"><a href=""><img src="images/small-2.jpg" class="img-fluid" alt=""></a></div>
 									<div class="info">
 										<h4><a href="">Solea Canyo Tan Left Arm Module</a></h4>
-										<div class="price">$999</div>
+										<div class="price text-left">$999</div>
 									</div>
 								</div>
 							</div>
@@ -331,7 +331,7 @@
 									<div class="avarta"><a href=""><img src="images/small-1.jpg" class="img-fluid" alt=""></a></div>
 									<div class="info">
 										<h4><a href="">Solea Canyo Tan Left Arm Module</a></h4>
-										<div class="price">$999</div>
+										<div class="price text-left">$999</div>
 									</div>
 								</div>
 							</div>
@@ -340,7 +340,7 @@
 									<div class="avarta"><a href=""><img src="images/small-2.jpg" class="img-fluid" alt=""></a></div>
 									<div class="info">
 										<h4><a href="">Solea Canyo Tan Left Arm Module</a></h4>
-										<div class="price">$999</div>
+										<div class="price text-left">$999</div>
 									</div>
 								</div>
 							</div>
@@ -349,7 +349,7 @@
 									<div class="avarta"><a href=""><img src="images/small-1.jpg" class="img-fluid" alt=""></a></div>
 									<div class="info">
 										<h4><a href="">Solea Canyo Tan Left Arm Module</a></h4>
-										<div class="price">$999</div>
+										<div class="price text-left">$999</div>
 									</div>
 								</div>
 							</div>
@@ -358,7 +358,7 @@
 									<div class="avarta"><a href=""><img src="images/small-2.jpg" class="img-fluid" alt=""></a></div>
 									<div class="info">
 										<h4><a href="">Solea Canyo Tan Left Arm Module</a></h4>
-										<div class="price">$999</div>
+										<div class="price text-left">$999</div>
 									</div>
 								</div>
 							</div>
@@ -367,7 +367,7 @@
 									<div class="avarta"><a href=""><img src="images/small-1.jpg" class="img-fluid" alt=""></a></div>
 									<div class="info">
 										<h4><a href="">Solea Canyo Tan Left Arm Module</a></h4>
-										<div class="price">$999</div>
+										<div class="price text-left">$999</div>
 									</div>
 								</div>
 							</div>
@@ -389,7 +389,7 @@
 									<div class="avarta"><a href=""><img src="images/small-2.jpg" class="img-fluid" alt=""></a></div>
 									<div class="info">
 										<h4><a href="">Solea Canyo Tan Left Arm Module</a></h4>
-										<div class="price">$999</div>
+										<div class="price text-left">$999</div>
 									</div>
 								</div>
 							</div>
@@ -398,7 +398,7 @@
 									<div class="avarta"><a href=""><img src="images/small-1.jpg" class="img-fluid" alt=""></a></div>
 									<div class="info">
 										<h4><a href="">Solea Canyo Tan Left Arm Module</a></h4>
-										<div class="price">$999</div>
+										<div class="price text-left">$999</div>
 									</div>
 								</div>
 							</div>
@@ -407,7 +407,7 @@
 									<div class="avarta"><a href=""><img src="images/small-1.jpg" class="img-fluid" alt=""></a></div>
 									<div class="info">
 										<h4><a href="">Solea Canyo Tan Left Arm Module</a></h4>
-										<div class="price">$999</div>
+										<div class="price text-left">$999</div>
 									</div>
 								</div>
 							</div>
@@ -416,7 +416,7 @@
 									<div class="avarta"><a href=""><img src="images/small-2.jpg" class="img-fluid" alt=""></a></div>
 									<div class="info">
 										<h4><a href="">Solea Canyo Tan Left Arm Module</a></h4>
-										<div class="price">$999</div>
+										<div class="price text-left">$999</div>
 									</div>
 								</div>
 							</div>
@@ -425,7 +425,7 @@
 									<div class="avarta"><a href=""><img src="images/small-1.jpg" class="img-fluid" alt=""></a></div>
 									<div class="info">
 										<h4><a href="">Solea Canyo Tan Left Arm Module</a></h4>
-										<div class="price">$999</div>
+										<div class="price text-left">$999</div>
 									</div>
 								</div>
 							</div>
@@ -434,7 +434,7 @@
 									<div class="avarta"><a href=""><img src="images/small-2.jpg" class="img-fluid" alt=""></a></div>
 									<div class="info">
 										<h4><a href="">Solea Canyo Tan Left Arm Module</a></h4>
-										<div class="price">$999</div>
+										<div class="price text-left">$999</div>
 									</div>
 								</div>
 							</div>
@@ -443,7 +443,7 @@
 									<div class="avarta"><a href=""><img src="images/small-1.jpg" class="img-fluid" alt=""></a></div>
 									<div class="info">
 										<h4><a href="">Solea Canyo Tan Left Arm Module</a></h4>
-										<div class="price">$999</div>
+										<div class="price text-left">$999</div>
 									</div>
 								</div>
 							</div>
@@ -452,7 +452,7 @@
 									<div class="avarta"><a href=""><img src="images/small-2.jpg" class="img-fluid" alt=""></a></div>
 									<div class="info">
 										<h4><a href="">Solea Canyo Tan Left Arm Module</a></h4>
-										<div class="price">$999</div>
+										<div class="price text-left">$999</div>
 									</div>
 								</div>
 							</div>

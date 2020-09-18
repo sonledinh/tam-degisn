@@ -6,7 +6,7 @@
 				<div class="col-md-12">
 					<div class="logo"><a href=""><img src="images/logo-ft.svg" class="img-fluid" alt=""></a></div>
 				</div>
-				<div class="col-md-3">
+				<div class="col-md-3 col-sm-6">
 					<div class="item-ft">
 						<div class="place">
 							<h3>Hồ Chí Minh</h3>
@@ -34,7 +34,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-3">
+				<div class="col-md-3 col-sm-6">
 					<div class="item-ft">
 						<h3 class="">Giá Trị Cam Kết</h3>
 						<ul>
@@ -47,7 +47,7 @@
 						</ul>
 					</div>
 				</div>
-				<div class="col-md-3">
+				<div class="col-md-3 col-sm-6">
 					<div class="item-ft">
 						<h3 class="">TAM DESIGN</h3>
 						<ul>
@@ -61,7 +61,7 @@
 						</ul>
 					</div>
 				</div>
-				<div class="col-md-3">
+				<div class="col-md-3 col-sm-6">
 					<div class="item-ft">
 						<h3 class="">DỊCH VỤ</h3>
 						<ul>

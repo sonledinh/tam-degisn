@@ -23,7 +23,7 @@
 						<div class="form-cart">
 							<form action="">
 								<div class="item">
-									<input type="text" placeholder="Họ và tên">
+									<input type="text" placeholder="Họ và tên"> 
 								</div>
 								<div class="item">
 									<div class="row">
@@ -81,66 +81,68 @@
 				<div class="col-md-5">
 					<div class="title-cate">Giỏ hàng</div>
 					<div class="cart-right">
-						<div class="list-cart">
-							<div class="item-cart">
-								<div class="prd-cart">
-									<div class="avarta"><a href=""><img src="images/pr-slide.webp" class="img-fluid" alt=""></a></div>
-									<h3><a href="">Lento Black Leather Lounge Chair</a></h3>
+						<div class="src-mobile">
+							<div class="list-cart">
+								<div class="item-cart">
+									<div class="prd-cart">
+										<div class="avarta"><a href=""><img src="images/pr-slide.webp" class="img-fluid" alt=""></a></div>
+										<h3><a href="">Lento Black Leather Lounge Chair</a></h3>
+									</div>
+									<div class="quantity-cart">
+										<select name="" id="">
+											<option value="">1</option>
+											<option value="">2</option>
+											<option value="">3</option>
+										</select>
+									</div>
+									<div class="price">$189</div>
+									<div class="remove"><a href="javascript:void(0)"><i class="fa fa-trash"></i></a></div>
 								</div>
-								<div class="quantity-cart">
-									<select name="" id="">
-										<option value="">1</option>
-										<option value="">2</option>
-										<option value="">3</option>
-									</select>
+								<div class="item-cart">
+									<div class="prd-cart">
+										<div class="avarta"><a href=""><img src="images/pr-slide.webp" class="img-fluid" alt=""></a></div>
+										<h3><a href="">Lento Black Leather Lounge Chair</a></h3>
+									</div>
+									<div class="quantity-cart">
+										<select name="" id="">
+											<option value="">1</option>
+											<option value="">2</option>
+											<option value="">3</option>
+										</select>
+									</div>
+									<div class="price">$189</div>
+									<div class="remove"><a href="javascript:void(0)"><i class="fa fa-trash"></i></a></div>
 								</div>
-								<div class="price">$189</div>
-								<div class="remove"><a href="javascript:void(0)"><i class="fa fa-trash"></i></a></div>
-							</div>
-							<div class="item-cart">
-								<div class="prd-cart">
-									<div class="avarta"><a href=""><img src="images/pr-slide.webp" class="img-fluid" alt=""></a></div>
-									<h3><a href="">Lento Black Leather Lounge Chair</a></h3>
+								<div class="item-cart">
+									<div class="prd-cart">
+										<div class="avarta"><a href=""><img src="images/pr-slide.webp" class="img-fluid" alt=""></a></div>
+										<h3><a href="">Lento Black Leather Lounge Chair</a></h3>
+									</div>
+									<div class="quantity-cart">
+										<select name="" id="">
+											<option value="">1</option>
+											<option value="">2</option>
+											<option value="">3</option>
+										</select>
+									</div>
+									<div class="price">$189</div>
+									<div class="remove"><a href="javascript:void(0)"><i class="fa fa-trash"></i></a></div>
 								</div>
-								<div class="quantity-cart">
-									<select name="" id="">
-										<option value="">1</option>
-										<option value="">2</option>
-										<option value="">3</option>
-									</select>
+								<div class="item-cart">
+									<div class="prd-cart">
+										<div class="avarta"><a href=""><img src="images/pr-slide.webp" class="img-fluid" alt=""></a></div>
+										<h3><a href="">Lento Black Leather Lounge Chair</a></h3>
+									</div>
+									<div class="quantity-cart">
+										<select name="" id="">
+											<option value="">1</option>
+											<option value="">2</option>
+											<option value="">3</option>
+										</select>
+									</div>
+									<div class="price">$189</div>
+									<div class="remove"><a href="javascript:void(0)"><i class="fa fa-trash"></i></a></div>
 								</div>
-								<div class="price">$189</div>
-								<div class="remove"><a href="javascript:void(0)"><i class="fa fa-trash"></i></a></div>
-							</div>
-							<div class="item-cart">
-								<div class="prd-cart">
-									<div class="avarta"><a href=""><img src="images/pr-slide.webp" class="img-fluid" alt=""></a></div>
-									<h3><a href="">Lento Black Leather Lounge Chair</a></h3>
-								</div>
-								<div class="quantity-cart">
-									<select name="" id="">
-										<option value="">1</option>
-										<option value="">2</option>
-										<option value="">3</option>
-									</select>
-								</div>
-								<div class="price">$189</div>
-								<div class="remove"><a href="javascript:void(0)"><i class="fa fa-trash"></i></a></div>
-							</div>
-							<div class="item-cart">
-								<div class="prd-cart">
-									<div class="avarta"><a href=""><img src="images/pr-slide.webp" class="img-fluid" alt=""></a></div>
-									<h3><a href="">Lento Black Leather Lounge Chair</a></h3>
-								</div>
-								<div class="quantity-cart">
-									<select name="" id="">
-										<option value="">1</option>
-										<option value="">2</option>
-										<option value="">3</option>
-									</select>
-								</div>
-								<div class="price">$189</div>
-								<div class="remove"><a href="javascript:void(0)"><i class="fa fa-trash"></i></a></div>
 							</div>
 						</div>
 						<div class="code-sale">
@@ -178,26 +180,38 @@
 				<div class="title-cate text-uppercase">NHỮNG THẮC MẮC KHÁCH HÀNG THƯỜNG GẶP</div>
 				<div class="list-quess">
 					<div class="row">
-						<div class="col-md-6">
-							<div class="item-quess">
-								<div class="avarta"><a href=""><img src="images/quess-1.svg" class="img-fluid w-100" alt=""></a></div>
+						<div class="col-md-6 col-sm-6 col-6">
+							<div class="item-support">
+								<div class="avarta"><a href=""><img src="images/support.jpg" class="img-fluid w-100" alt=""></a></div>
+								<div class="info">
+									<h3><a href=""><span>Vận chuyển và giao hàng</span><i class="fa fa-angle-right"></i></a></h3>
+								</div>
 							</div>
 						</div>
-						<div class="col-md-6">
-							<div class="item-quess">
-								<div class="avarta"><a href=""><img src="images/quess-2.svg" class="img-fluid w-100" alt=""></a></div>
+						<div class="col-md-6 col-sm-6 col-6">
+							<div class="item-support">
+								<div class="avarta"><a href=""><img src="images/support.jpg" class="img-fluid w-100" alt=""></a></div>
+								<div class="info">
+									<h3><a href=""><span>Vận chuyển và giao hàng</span><i class="fa fa-angle-right"></i></a></h3>
+								</div>
 							</div>
 						</div>
-						<div class="col-md-6">
-							<div class="item-quess">
-								<div class="avarta"><a href=""><img src="images/quess-3.svg" class="img-fluid w-100" alt=""></a></div>
+						<div class="col-md-6 col-sm-6 col-6">
+							<div class="item-support">
+								<div class="avarta"><a href=""><img src="images/support.jpg" class="img-fluid w-100" alt=""></a></div>
+								<div class="info">
+									<h3><a href=""><span>Vận chuyển và giao hàng</span><i class="fa fa-angle-right"></i></a></h3>
+								</div>
 							</div>
 						</div>
-						<div class="col-md-6">
-							<div class="item-quess">
-								<div class="avarta"><a href=""><img src="images/quess-4.svg" class="img-fluid w-100" alt=""></a></div>
+						<div class="col-md-6 col-sm-6 col-6">
+							<div class="item-support">
+								<div class="avarta"><a href=""><img src="images/support.jpg" class="img-fluid w-100" alt=""></a></div>
+								<div class="info">
+									<h3><a href=""><span>Vận chuyển và giao hàng</span><i class="fa fa-angle-right"></i></a></h3>
+								</div>
 							</div>
-						</div>
+						</div> 
 					</div>
 				</div>
 			</div>

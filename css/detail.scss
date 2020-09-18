@@ -382,7 +382,7 @@ ul.cate-date {
 	    letter-spacing: 0.05em;
 	    color: #878787;
 	    border-bottom: 1px solid #8A8A8A;
-	    padding-bottom: 10px;
+	    padding-bottom: 10px; 
 	    margin-bottom: 10px;
 	}
 	ul {
@@ -430,5 +430,174 @@ ul.cate-date {
 	    	}
 	    }
 	}
+	.tab-content > .tab-pane {
+		position: unset;
+	}
+}
+
+.item-product {
+	.avarta {
+		margin-bottom: 10px;
+	}
+	h3 {
+		a {
+			display: block;
+		    font-size: 14px;
+		    font-weight: 400;
+		    line-height: 1.5;
+		    margin-bottom: 4px;
+		    color: #878787;
+		}
+	}
+	.info {
+		.price {
+			font-weight: 300;
+		    font-size: 14px;
+		    letter-spacing: 0.1em;
+		    line-height: inherit;
+		    color: $yellow;
+		}
+		.pr-color {
+
+			margin-top: 10px;
+		}
+	}
+}
+.list-products {
+	.col-md-3 {
+		margin-bottom: 30px;
+	}
+	.pagination {
+		padding-top: 0;
+		border-top: 0;
+	}
 }
 // end style news 
+
+#about {
+	padding-bottom: 80px;
+}
+
+.about-top {
+	display: flex;
+    color: #000000;
+    padding: 80px 0 40px 0;
+    .avarta {
+    	flex: 0 0 500px;
+    	margin-right: 20px;
+    	img {
+    		transform: scale(1) !important;
+    	}
+    }
+    .well {
+    	margin-bottom: 30px;
+    	position: relative;
+    }
+    h1 {
+    	font-size: 24px;
+	    font-weight: bold;
+	    margin-bottom: 30px;
+    }
+}
+.team-about {
+	.title {
+		font-size: 36px;
+	    font-weight: bold;
+	    color: #000000;
+	    margin-bottom: 40px;
+	}
+	.avarta-team {
+		margin-bottom: 100px;
+	}
+	.line {
+		width: 470px;
+	    height: 1px;
+	    background: #aaa;
+	    margin: 0 auto;
+	    position: relative;
+	    top: 10px;
+	}
+}
+
+.txt-srv {
+	line-height: 1.7;
+	font-size: 14px;
+	padding-right: 30px;
+	h3 {
+		font-size: 24px;
+	    font-weight: 700;
+	    line-height: inherit;
+	    margin-bottom: 20px;
+	}
+	p {
+		margin-bottom: 8px;
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
+}
+
+.srv-about {
+	margin-bottom: 100px;
+	.item {
+		margin-bottom: 50px;
+		.row {
+			margin: 0;
+			.col-md-6 {
+				padding: 0;
+			}
+		}
+		&:last-child {
+			margin-bottom: 0;
+		}
+		&:nth-child(2n) {
+			.col-md-6 {
+				&:nth-child(2n) {
+					order: 1;
+				}
+				&:nth-child(2n+1) {
+					order: 2;
+				}
+			}
+			.txt-srv {
+				padding-right: 0;
+				padding-left: 30px;
+			}
+		}
+	}
+}
+
+.qtrinh {
+	margin-bottom: 50px;
+	.title {
+		font-weight: bold;
+	    font-size: 24px;
+	    color: #000000;
+	    margin-bottom: 40px;
+	} 
+}
+.info-qtrinh {
+	color: #000000;
+	font-size: 14px;
+	p {
+		margin-bottom: 8px;
+		img {
+			margin-bottom: 30px;
+		}
+	}
+}
+.forme { 
+	.title {
+		font-weight: bold;
+	    font-size: 24px;
+	    color: #000000;
+	    margin-bottom: 30px;
+	}
+} 
+
+.box-product {
+	.tab-prd {
+		padding-bottom: 0;
+    	border-bottom: 0;
+	}
+}

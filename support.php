@@ -19,7 +19,7 @@
 					<div class="title-bar text-center text-uppercase">Trung tâm trợ giúp</div>
 					<div class="list-support">
 						<div class="row">
-							<div class="col-md-6">
+							<div class="col-md-6 col-6 col-sm-4">
 								<div class="item-support">
 									<div class="avarta"><a href=""><img src="images/support.jpg" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">
@@ -27,7 +27,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-6">
+							<div class="col-md-6 col-6 col-sm-4">
 								<div class="item-support">
 									<div class="avarta"><a href=""><img src="images/support.jpg" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">
@@ -35,7 +35,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-6">
+							<div class="col-md-6 col-6 col-sm-4">
 								<div class="item-support">
 									<div class="avarta"><a href=""><img src="images/support.jpg" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">
@@ -43,7 +43,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-6">
+							<div class="col-md-6 col-6 col-sm-4">
 								<div class="item-support">
 									<div class="avarta"><a href=""><img src="images/support.jpg" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">
@@ -51,7 +51,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-6">
+							<div class="col-md-6 col-6 col-sm-4">
 								<div class="item-support">
 									<div class="avarta"><a href=""><img src="images/support.jpg" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">
@@ -59,7 +59,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-6">
+							<div class="col-md-6 col-6 col-sm-4">
 								<div class="item-support">
 									<div class="avarta"><a href=""><img src="images/support.jpg" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">
@@ -67,7 +67,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-6">
+							<div class="col-md-6 col-6 col-sm-4">
 								<div class="item-support">
 									<div class="avarta"><a href=""><img src="images/support.jpg" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">
@@ -75,7 +75,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-6">
+							<div class="col-md-6 col-6 col-sm-4">
 								<div class="item-support">
 									<div class="avarta"><a href=""><img src="images/support.jpg" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">

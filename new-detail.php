@@ -23,7 +23,7 @@
 							<div class="date-partn">
 								<ul class="list-inline">
 									<li class="list-inline-item"><a href="javascript:void(0)">Nguyễn Viết Quý</a></li>
-									<li class="list-inline-item">ngày 07 tháng 07 năm 2020</li> `
+									<li class="list-inline-item">ngày 07 tháng 07 năm 2020</li> 
 								</ul>
 							</div>
 							<h1>CEO THƯỚC TẦM GROUP: “ĐÃ ĐẾN LÚC XÂY DỰNG THƯƠNG HIỆU NỘI THẤT CỦA NGƯỜI VIỆT”</h1>

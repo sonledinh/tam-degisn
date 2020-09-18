@@ -1,681 +1,869 @@
-@media (max-width: 767px) {
-  .row {
-    margin: 0 -5px; }
-    .row .col-md-1, .row .col-md-2, .row .col-md-3, .row .col-md-4, .row .col-md-5, .row .col-md-6, .row .col-md-7, .row .col-md-8, .row .col-md-9, .row .col-md-10, .row .col-md-11, .row .col-md-12 {
-      padding: 0 5px; } }
-@media (max-width: 1023px) and (min-width: 768px) {
-  .row {
-    margin: 0 -5px; }
-    .row .col-md-1, .row .col-md-2, .row .col-md-3, .row .col-md-4, .row .col-md-5, .row .col-md-6, .row .col-md-7, .row .col-md-8, .row .col-md-9, .row .col-md-10, .row .col-md-11, .row .col-md-12 {
-      padding: 0 5px; } }
-@media (max-width: 1023px) and (min-width: 768px) {
-    .header-desk ul li {
-        padding-left: 25px;
-    }
 
-    .slide-banner .item .info h2 a {
-        font-size: 35px;
-    }
-
-    .slide-banner .item .info .desc {
-        padding: 20px 0;
-    }
-
-    .slide-banner .item .info {
-        max-width: 65%;
-    }
-    body .container {
-        max-width: 100%;
-    }
-
-    .info-about .right {
-        padding-left: 15px;
-    }
-
-    .list-degisn .item {
-        padding: 15px;
-    }
-
-    .list-degisn .item h4 {
-        font-size: 18px;
-    }
-
-    .list-collection .col-md-2 {
-        flex: 0 0 calc(100% / 3);
-        max-width: 100%;
-        margin-bottom: 30px;
-    }
-}
-
-@media (max-width: 1364px) and (min-width: 1024px) {
-    .slide-banner .item .info h2 a {
-        font-size: 50px;
-    }
-
-    .slide-banner .item .info .desc {
-        padding: 35px 0;
-    }
-
-    .info-about .right {
-        padding-left: 10px;
-    }
-    .list-collection .col-md-2 {
-        flex: 0 0 calc(100% / 3);
-        max-width: 100%;
-        margin-bottom: 30px;
-    }
-}
-@media (max-width: 767px) {
-    .header-desk {
+@media(max-width: 767px) {
+    .header-top {
         display: none;
     }
 
-    body .container {
-        max-width: 100%;
-    }
-    .pb-100 {
-        padding-bottom: 20px;
-    }
-
-    main {
-        margin-top: 46px;
-    }
-
-    .slide-banner .item .info {
-        max-width: 80%;
-    }
-
-    .slide-banner .item .info h2 a {
-        font-size: 25px;
-        margin-bottom: 15px;
-    }
-
-    .slide-banner .item .info .desc {
+    .header-menu {
         display: none;
     }
-
-    .readmore a {
-        height: 35px;
-        line-height: 35px;
+    html {
+        overflow-x: hidden;
+    }
+    body {
         font-size: 14px;
-        padding: 0 20px;
+        overflow-x: hidden;
+    }
+    body .container {
+        padding: 0 15px;
+        max-width: 100%;
     }
 
-    .slick-dots {
-        padding-bottom: 20px;
+    .caption-banner .desc {
+        font-weight: normal;
+        font-size: 14px;
+        letter-spacing: 1px;
     }
 
-    .slick-slider {
-        margin-bottom: 0;
+    .caption-banner h1 {
+        font-size: 20px;
+        letter-spacing: 2px;
+        margin-bottom: 10px;
+    }
+
+    .slide-banner img {
+        height: 250px;
+        object-fit: cover;
+    }
+
+    .item-srv {
+        height: 80px;
+    }
+
+    .item-srv .icon img {
+        max-height: 35px;
+    }
+
+    .item-srv .icon {
+        flex: 0 0 40px;
+    }
+
+    .box-srv .col-md-3 {
+        border-bottom: 1px solid #ebebeb;
+    }
+    .box-srv {
+        margin-bottom: 30px;
     }
 
     .title h2 {
-        font-size: 30px;
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+
+    .nav li a {
+        font-size: 15px;
+    }
+
+    .box-product .title {
+        margin-bottom: 20px;
+    }
+
+    .slide-favorite {
+        padding-bottom: 20px;
+    }
+
+    .title li {
+        padding-right: 20px;
         margin-bottom: 5px;
     }
 
-    .title {
-        margin-bottom: 15px;
-        text-align: center !important;
+    .title li:first-child {
+        flex: 0 0 100%;
     }
 
-    .list-func .item {
-        padding: 20px;
-    }
-
-    .list-func .item .icon {
-        margin-bottom: 6px;
-    }
-
-    #about {
-        padding: 15px 0;
-    }
-
-    #about:after {
-        height: 100%;
-        top: 0;
-        width: 100%;
-    }
-
-    .info-about .right {
-        padding-left: 0;
-        padding-top: 20px;
-    }
-
-    .info-about .right h3 {
-        font-size: 23px;
-        margin-bottom: 10px;
-    }
-
-    .info-about .right .desc {
-        padding-bottom: 15px;
-        text-align: justify;
-    }
-    #degisn {
-        padding: 20px 0;
-    }
-
-    .list-degisn .item h4 {
-        font-size: 18px;
-    }
-    .title p br {
-        display: none;
-    }
-
-    #collection {
-        padding: 20px 0;
-    }
-
-    .list-collection {
-        padding: 0;
-    }
-    #feedback {
-        padding: 20px 0;
-    }
-
-    .list-feed {
-        padding-top: 0;
-    }
-
-    .list-feed .item .desc {
-        padding: 10px;
-        font-size: 14px;
-    }
-    .list-feed .item .desc:before {
-        display: none;
-    }
-    .list-collection .item .new a, .list-collection .item .sale a {
-        font-size: 10px;
-        height: 20px;
-        line-height: 20px;
-        padding: 0 10px;
-        left: unset;
-        right: 10px;
-    }
-    #contact {
-        padding: 20px 0;
-    }
-
-    .contact-info .desc {
-        padding-bottom: 10px;
-    }
-
-    .contact-info .list-info p {
-        margin-bottom: 10px;
-    }
-
-    .list-info.nuni {
-        margin-bottom: 15px;
-    }
-
-    .form-contact .item input {
-        height: 40px;
-        padding: 0 15px;
-        font-size: 13px;
-    }
-
-    .form-contact .item textarea {
-        height: 100px;
-        padding: 15px;
-        font-size: 13px;
-    }
-    .modal-header {
-        padding: 5px;
-    }
-
-    .modal-body {
-        padding: 5px;
-    }
-
-    .modal .modal-dialog iframe {
-        height: 300px;
-    }
-    nav#menu-list ul li a.active {
-        color: #9a5dc2;
-    }
-    .menu-mobile {
-        display: block !important;
-        padding: 5px 0;
-        position: fixed;
-        width: 100%;
-        left: 0;
-        top: 0;
-        z-index: 9;
-        border-bottom: 1px solid #ddd;
-        background: #fff;
-    }
-    .menu-mobile .row {
-        align-items: center;
-    }
-    nav#menu-list {
-        background: #f3f3f3;
-        padding: 20px;
-        position: fixed;
-        width: 100%;
-        height: calc(100% - 54px);
-        top: 46px;
-        transition: .4s all;
-        left: -100%;
-    }
-    nav#menu-list.active {
-        transition: .4s all;
-        left: 0;
-        overflow: auto;
-    }
-    .menu-mobile .header a.active i:before {
-        content: "\f00d";
-    }
-    nav#menu-list ul li {
-        list-style: none;
-    }
-
-    nav#menu-list ul li a {
-        color: #272727;
-        font-size: 15px;
-        font-weight: normal;
-        text-transform: uppercase;
-        display: block;
-        padding: 10px 0;
-    }
-    .menu-mobile .header a {
-        color: #9a5dc2;
-        font-size: 20px;
-    }
-    .mobile-top .logo img {
-        height: 35px;
-    }
-    body.active {
-        overflow: hidden;
-    }
-    .slide-banner .slick-dots {
-        bottom: -10px;
-    }
-
-    .slick-dots li {
-        width: 10px !important;
-        height: 10px !important;
-    }
-
-    .pb-100 {
-        padding-bottom: 30px;
-    }
-
-    .pt-100 {
-        padding-top: 30px;
-    }
-    .title p {
-        font-size: 14px;
-        line-height: initial;
-    }
-
-    .title {
-        text-align: center !important;
-    }
-
-    .info-about .desc {
-        text-align: justify;
-        color: #000000;
-    }
-
-    .info-about .btn-contact {
-        padding-top: 15px;
-    }
-
-    .btn-contact a {
-        height: 40px;
-        line-height: 40px;
-        padding: 0 25px;
-        font-size: 16px;
-    }
-
-    .info-count .left {
-        padding-right: 0;
-    }
-
-    .info-count .right {
-        padding-left: 0;
-        padding-top: 15px;
-    }
-    .info-count .info-right h3 {
-        padding-bottom: 15px;
-        font-size: 18px;
-    }
-
-    .info-count .info-right {
-        padding: 20px 10px;
-    }
-
-    .info-count .counter {
-        padding: 20px 0;
-    }
-
-    .info-count .counter ul {
-        display: inline-flex;
-        width: 100%;
-        justify-content: space-between;
-    }
-
-    .info-count .counter ul li {
-        width: 60px;
-        height: 60px;
-        line-height: 60px;
-        font-size: 13px;
-    }
-
-    .info-count .counter ul li span {
-        margin-bottom: -21px;
-        font-size: 20px;
-        padding-top: 9px;
-    }
-
-    .btn-contact {
-        padding-top: 10px;
-    }
-
-    .info-count .counter ul li:after {
-        display: none;
-    }
-    .slide-service .item .avarta .desc {
-        display: none;
-    }
-
-    .slide-service .item .info {
-        padding: 10px;
-        background-image: linear-gradient(rgba(154, 93, 193, 0.9), rgba(154, 93, 193, 0.9));
-    }
-
-    .slide-service .item .info a {
-        font-size: 18px;
-    }
-    .slide-member .item .info {
-        padding: 10px;
-    }
-
-    .slide-member .item .info .desc {
-        display: none;
-    }
-
-    .slide-member .item .info h3 {
-        font-size: 16px;
-        line-height: initial;
-    }
-
-    .slide-member .item .info span {
-        padding: 0;
-        font-size: 13px;
-    }
-    .list-step .item .number span {
-        font-size: 100px;
-        line-height: initial;
-    }
-
-    .list-step .item .number h3 {
-        font-size: 20px;
-    }
-
-    .list-step .item .desc {
-        font-size: 13px;
-        text-align: justify;
-    }
-    .list-price .col-md-4 {
-        margin-bottom: 15px;
-    }
-
-    .list-price .col-md-4:last-child {
-        margin-bottom: 0;
-    }
-    .list-feedback .item .desc {
-        padding: 10px;
-        font-size: 14px;
-    }
-
-    .list-feedback .slick-dots {
+    .slick-arrow {
         display: none !important;
     }
 
-    .list-contact .item input {
-        padding-right: 10px;
-        padding-left: 40px;
+    .prd-small {
+        padding-top: 10px;
     }
 
-    .list-contact .item span {
-        left: 10px;
+    .prd-small .item {
+        padding: 10px 0;
     }
 
-    .btn-contact button {
-        height: 40px;
-        line-height: 40px;
+    .prd-small .item {
+        border-bottom: 1px solid #ebebeb;
+    }
+
+    .box-product {
+        padding-bottom: 20px;
+    }
+
+    .info-subscribe {
+        color: #fff;
+    }
+
+    .box-subscribe {
+        padding: 65px 0;
+    }
+
+    .form-sub input {width: 100%;margin-bottom: 15px;}
+
+    .info-subscribe h3 {
+        font-size: 20px;
+    }
+
+    .prd-small .item .price {
+        text-align: left;
+    }
+
+    .prd-small .item .avarta img {
+        width: 100%;
+    }
+    .box-gall .col-md-3 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        display: flex;
+    }
+
+    .box-gall .col-md-9 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .box-gall .avarta {
+        margin-bottom: 15px;
+    }
+
+    .title-line {
+        margin: 30px 0 15px 0;
+    }
+
+    .title-line h2 span {
+        font-size: 18px;
+        padding-right: 15px;
+    }
+
+    .box-gall {
+        padding-bottom: 15px;
+        margin-bottom: 25px;
+    }
+
+    .title-news h2 {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+
+    .list-news-home .item {
+        margin-bottom: 15px;
+    }
+
+    .list-news-home .readmore {
+        display: none;
+    }
+
+    .list-news-home .avarta {
+        margin-right: 15px;
+        flex: 0 0 45%;
+    }
+
+    .list-news-home h4 a {
         font-size: 16px;
-        text-transform: uppercase;
+        font-weight: 500;
     }
 
-    #maps iframe {
-        height: 200px;
-    }
-    footer {
-        padding: 30px 0;
-        font-size: 14px;
+    .box-news .col-md-6 {
+        margin-bottom: 35px;
     }
 
-    .footre-top .col-md-5:first-child .item {
-        padding-right: 0;
+    .box-news .col-md-6:last-child {
+        margin-bottom: 0;
     }
 
-    .footre-top .col-md-5:last-child .item {
-        padding-left: 0;
+    .box-news {
+        padding-bottom: 30px;
     }
 
-    .footre-top .logo {
-        padding: 31px 0;
+    .box-project {
+        display: none;
     }
 
-    .footre-top .item .desc {margin-bottom: 15px;}
-}
+    .box-feedback {
+        border-top: 1px solid #ebebeb;
+        padding: 30px 0 0 0;
+    }
 
-@media (max-width: 575px) {
-    .list-collection .item {
-        display: inline-flex;
+    .slide-feed {
+        margin-bottom: 20px;
+    }
+
+    .content-feed {
+        padding-bottom: 30px;
+    }
+
+    .form-regis input {
         width: 100%;
     }
 
-    .list-collection .item .avarta {
+    .form-regis button {
+        font-size: 12px;
+        letter-spacing: 0;
+        padding: 0 15px;
+    }
+
+    .form-regis {
+        margin-top: 20px;
+    }
+    footer {
+        padding: 30px 0;
+    }
+
+    footer .logo {
+        margin-bottom: 30px;
+    }
+
+    .content-ft .col-md-3 {
+        margin-bottom: 30px;
+    }
+
+    .social ul {
+        text-align: center !important;
+    }
+    .breadcrumbs .avarta img {
+        height: 200px;
+        object-fit: cover;
+    }
+
+    .breadcrumbs .info-bread {
+        color: #000000;
+    }
+
+    .breadcrumbs .info-bread h2 {font-size: 20px;font-weight: bold;}
+
+    .breadcrumbs .info-bread a {
+        color: #000000;
+    }
+
+    .about-top {
+        padding: 30px 0;
+        display: block;
+    }
+
+    .about-top .avarta {
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+
+    .about-top .well {
+        margin-bottom: 15px;
+    }
+
+    .about-top h1 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    .team-about .line {
+        display: none;
+    }
+
+    .team-about .title {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    .srv-about {
+        margin-bottom: 40px;
+    }
+
+    .team-about .avarta-team {
+        margin-bottom: 40px;
+    }
+
+    .txt-srv {
+        padding: 0 0 20px 0;
+    }
+
+    .srv-about .item:nth-child(2n) .col-md-6:nth-child(2n) {
+        order: 2;
+    }
+
+    .srv-about .item:nth-child(2n) .txt-srv {
+        padding: 0 0 20px 0;
+    }
+
+    .txt-srv h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .qtrinh .title {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .forme .title {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    #about {
+        padding-bottom: 30px;
+    }
+    .regis {
+        flex: 0 0 100%;
+        order: 2;
+    }
+
+    .regis .item {
+        margin-bottom: 15px;
+    }
+
+    .regis .item input {
+        font-size: 14px;
+        height: 40px;
+        padding: 0 10px;
+    }
+
+    .title-black {
+        font-size: 20px;
+    }
+
+    .regis .item button {
+        height: 40px;
+        font-size: 14px;
+        min-width: 200px;
+    }
+
+    .other-acc {
+        padding: 15px 0;
+    }
+
+    .other-acc ul {
+        margin: 0 -5px;
+    }
+
+    .other-acc ul li {
+        padding: 0 5px;
+    }
+
+    .box-user .avarta {
+        margin: 0 auto 20px auto;
+        order: 1;
+        overflow: hidden;
+        border-radius: 100%;
+    }
+
+    .box-user .avarta img {
+        width: 150px;
+        height: 150px;
+        border-radius: 100%;
+        object-fit: cover;
+    }
+
+    #account {
+        padding-top: 40px;
+    }
+    #cart {
+        padding: 30px 0;
+    }
+
+    .title-cate {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+
+    .notice-log {
+        font-size: 15px;
+    }
+
+    .form-cart input {
+        font-size: 15px;
+        height: 40px;
+    }
+
+    .form-cart .item {
+        margin-bottom: 15px;
+    }
+
+    .form-cart .item .col-md-8 {
+        margin-bottom: 15px;
+    }
+
+    .form-cart select {
+        padding: 0 10px;
+        font-size: 15px;
+        height: 40px;
+    }
+
+    .form-cart .item .col-md-6 {
+        margin-bottom: 15px;
+    }
+
+    .form-cart .item .col-md-6:last-child {
+        margin-bottom: 0;
+    }
+
+    .choose-option:after {
+        top: 2px;
+    }
+
+    .btn-cart {
+        margin: 15px 0 20px 0;
+        font-size: 14px;
+    }
+    .list-cart {
+        width: 560px;
+    }
+
+    .src-mobile {
+        overflow: auto;
+    }
+
+    .price-cart ul li {
+        font-size: 15px;
+        color: #000000;
+        font-weight: bold;
+    }
+
+    .content-quess .title-cate {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+
+    .content-quess {
+        padding-top: 30px;
+    }
+
+    .item-support .info a {
+        font-size: 16px;
+        color: #000000;
+    }
+
+    .list-quess {
+        margin-bottom: 20px;
+    }
+
+    .list-quess .row {
+        margin: 0 -5px;
+    }
+
+    .list-quess .col-md-6 {
+        padding: 0 5px;
+        margin-bottom: 15px;
+    }
+    .other-cart {
+        margin: 0;
+        padding-bottom: 30px;
+    }
+    #contact {
+        padding: 40px 0;
+    }
+
+    .list-contact {
+        padding: 10px 0 40px 0;
+    }
+
+    .list-contact ul li {
+        padding: 0 5px;
+        box-sizing: border-box;
+    }
+
+    .list-contact ul {
+        margin: 0 -5px;
+    }
+
+    .box-place {
+        margin-bottom: 30px;
+    }
+    .news-thumbs .info {
+        position: unset;
+        width: 100%;
+        padding: 20px 0 0 0;
+    }
+
+    .news-thumbs h1 {
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+    .news-thumbs {
+        margin-bottom: 20px;
+    }
+
+    #detail-content {
+        padding: 15px 0;
+    }
+
+    .item-news .avarta {
         flex: 0 0 45%;
         margin-right: 10px;
     }
 
-    .list-collection .col-md-2 {
+    .item-news .info {
+        padding: 0;
+    }
+
+    .item-news .info .desc {
+        display: none;
+    }
+
+    .item-news .info h3 a {
+        font-size: 13px;
+        font-weight: bold;
+        margin-bottom: 0;
+    }
+
+    .button-article {
+        display: none;
+    }
+
+    ul.cate-date {
+        font-size: 10px;
+    }
+
+    .item-news {
         margin-bottom: 15px;
     }
 
-    .list-collection .item .info {
-        padding: 5px 0;
-    }
-
-    .list-collection .item .info h3 a br {
+    .col-md-3.col-right {
         display: none;
     }
 
-    .list-collection .item .info h3 a {
-        font-size: 18px;
+    .pagination {
+        max-width: 100%;
+        margin-top: 15px;
+        padding-top: 15px;
+    }
+    .list-products .col-md-3 {
         margin-bottom: 10px;
     }
 
-    .list-collection .item .price {
-        font-size: 13px;
-        padding-bottom: 0;
+    .item-product {
+        border: 1px solid #dbdbdb;
+        padding: 10PX;
     }
 
-    .list-collection .item .price del {
-        font-size: 13px;
+    .item-product h3 a {color: #000000;font-weight: bold;}
+
+    .item-product .info .price {
+        font-weight: normal;
+        letter-spacing: 0;
     }
 
-    .list-collection .col-md-2:last-child {
-        margin-bottom: 0;
-    }
-    .reserved {
-        padding: 15px 0;
-        text-align: center;
+    .pr-color a {
+        width: 20px;
+        height: 20px;
     }
 
-    .social.text-right {
+    .pr-color a.active:after {
+        width: 30px;
+        height: 30px;
+    }
+
+    .list-products .row {
+        margin: 0 -5px;
+    }
+
+    .list-products .col-md-3 {
+        padding: 0 5px;
+    }
+    .thumbs-top .pr-color {
+        bottom: 5px;
+        left: 10px;
+    }
+
+    .slider-nav {
+        max-width: 100%;
+        left: 0;
+    }
+
+    .slide-thumb .slider-for {
+        margin-bottom: 15px;
+    }
+
+    .add-cart {
+        margin-top: 15px;
         text-align: center !important;
-        margin-top: 5px;
     }
-    .list-gallery {
-        display: none;
+
+    .slide-thumb {
+        margin-bottom: 30px;
     }
-    #box-gallery {
-        padding: 0;
+
+    .detail-prd h1 {
+        font-size: 20px;
+        color: #000000;
+    }
+
+    .detail-prd {
+        margin-bottom: 30px;
+    }
+
+    .tab-prd .nav li a {
+        font-size: 15px;
+    }
+
+    .tab-prd {
+        padding-bottom: 30px;
+    }
+    .clc img {
+        height: auto;
+    }
+    .list-support .row {
+        margin: 0 -5px;
+    }
+
+    .list-support .col-md-6 {
+        padding: 0 5px;
+    }
+}
+@media (max-width: 575px) {
+    .box-srv .col-md-3:last-child {
+        border-bottom: 0;
     }
 }
 @media (max-width: 767px) and (min-width: 576px) {
-    .list-collection .item .info {
-        padding: 10px;
+    .form-regis ul {
+        justify-content: center;
+    }
+    .about-top {
+        display: flex;
     }
 
-    .list-collection .item .price {
+    .about-top .avarta {
+        flex: 0 0 40%;
+        margin-bottom: 0;
+        margin-right: 20px;
+    }
+    .item-news .info .desc {
+        display: block;
+        padding-top: 10px;
+    }
+
+    .item-news .avarta {
+        flex: 0 0 40%;
+    }
+} 
+
+@media (max-width: 1023px) and (min-width: 768px) {
+    header {
+        display: none;
+    }
+    html {
+        overflow-x: hidden;
+    }
+    body {
+        font-size: 14px;
+    }
+    .caption-banner h1 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .caption-banner .desc {
+        font-size: 20px;
+        letter-spacing: 0;
+        font-weight: normal;
+    }
+
+    body .container {
+        max-width: 100%;
+        padding: 0 15px;
+    }
+
+    .item-srv .icon {
+        flex: 0 0 45px;
+    }
+
+    .item-srv {
+        font-size: 13px;
+    }
+
+    .title li:first-child {
+        flex: 0 0 auto;
+        padding-right: 30px;
+    }
+
+    .nav li a {
+        font-size: 15px;
+    }
+
+    .prd-small .col-md-3 {
+        flex:  0 0 50%;
+        max-width: 50%;
+    }
+
+    .info-subscribe {
+        color: #fff;
+    }
+
+    .form-sub button {
+        margin-top: 15px;
+    }
+
+    section.box-capacity {
+    }
+
+    .box-gall .col-md-9 {
+        flex: 0 0 70%;
+        max-width: 70%;
+        padding: 0 5px;
+    }
+
+    .box-gall .col-md-3 {
+        flex:  0 0 30%;
+        max-width: 30%;
+        padding: 0 5px;
+    }
+
+    .box-gall .row {
+        margin: 0 -5px;
+    }
+
+    .box-gall .avarta {
+        margin-bottom: 10px;
+    }
+
+    .box-gall .col-md-3 img {
+        height: 162px;
+    }
+
+    .list-news-home .avarta {
+        flex: 0 0 45%;
+        margin-right: 10px;
+    }
+
+    .list-news-home h4 a {
+        font-size: 18px;
+    }
+
+    .txt-project .desc {
+        padding: 20px 0;
+    }
+
+    .txt-project h3 {
+        font-size: 18px;
+    }
+
+    .regis-box .col-md-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .form-regis {
+        margin-top: 15px;
+    }
+
+    .form-regis ul {
+        justify-content: center;
+    }
+
+    .regis-box {
+        text-align: center;
+    }
+    .breadcrumbs .avarta img {
+        height: 250px;
+        object-fit: cover; 
+    }
+
+    .about-top .avarta {
+        flex: 0 0 300px;
+    }
+    .form-cart input {
         font-size: 14px;
     }
 
-    .list-collection .item .info h3 a {
-        font-size: 18px;
+    .form-cart select {
+        font-size: 14px;
     }
-    .col-md-1 {
+
+    .btn-cart {
+        font-size: 14px;
+    }
+
+    .price-cart ul li {
+        font-size: 14px;
+    }
+
+    .list-cart {
+        width: 560px;
+    }
+
+    .src-mobile {
+        overflow: auto;
+    }
+    .desc-new {
         display: none;
     }
-    .slide-service .item .info a {
-        font-size: 16px;
-        line-height: initial;
-        display: block;
-    }
 
-    .list-gallery .item img {
-        height: 180px;
-    }
-    .list-price .price-big .info {
-        font-size: 15px;
-    }
-
-    .list-price .price-big .info h3 {
-        font-size: 15px;
-    }
-
-    .list-price .small-item h4 {
-        font-size: 13px;
-    }
-
-    .list-price .small-item {
-        font-size: 13px;
-    }
-
-    .list-price .list-other {
-        padding: 10px;
-    }
-
-    .list-price .item {
-        padding-bottom: 20px;
-    }
-
-    .list-feedback .item .info h4 {
-        font-size: 16px;
-    }
-}
-@media (max-width: 1023px) and (min-width: 768px) {
-    .slide-service .item .info {
-        padding: 20px 10px;
-    }
-
-    .slide-service .item .info a {
-        font-size: 20px;
-        display: block;
-    }
-
-    .slide-member .item .info h3 {
+    .news-thumbs h1 {
         font-size: 22px;
+        font-weight: bold;
     }
 
-    .info-count .info-right h3 {
-        font-size: 16px;
-        padding-bottom: 10px;
+    .title-bar {
+        font-size: 18px;
+        color: #000000;
     }
 
-    .info-count .info-right {
-        padding: 20px 10px;
+    .cate-bar a {
+        font-size: 12px;
     }
 
-    .list-gallery .item img {
-        height: 180px;
+    .item-news {
+        margin-bottom: 15px;
     }
 
-    .info-count .counter {
-        padding: 20px 0 0 0;
+    .item-news .avarta {
+        flex: 0 0 45%;
+        margin-right: 15px;
     }
 
-    .info-count .counter ul li:after {
+    .item-news .info {
+        padding: 0;
+    }
+
+    .button-article {
         display: none;
     }
 
-    .info-count .counter ul li span {
-        font-size: 20px;
-        margin-bottom: -20px;
+    .item-news .info .desc {
+        margin-bottom: 0;
+    }
+    .list-hot .readmore a {
+        display: none;
     }
 
-    .info-count .counter ul li {
-        width: 60px;
-        height: 60px;
-        font-size: 13px;
+    .list-hot .item .avarta {
+        flex: 0 0 40px;
     }
 
-    .list-step .item .desc {
-    }
-
-    .list-price .price-big .info {
-        font-size: 18px;
-    }
-
-    .list-price .price-big .info h3 {
-        font-size: 18px;
-    }
-    .header-desk ul li:last-child {
-        padding-left: 20px;
-    }
-
-    .header-desk ul li:last-child a {
-        height: 40px;
-        line-height: 40px;
-        font-size: 13px;
-        padding: 0 10px;
-        overflow: hidden;
-        text-align: center;
-    }
-
-    .header-desk ul li {
-        padding-left: 10px;
-    }
-
-    .header-desk ul li a {
-        font-size: 13px;
-    }
-    main .container {
-        overflow: hidden;
+    .list-hot .item .info h5 a {
+        font-size: 12px;
     }
 }
 
-@media (max-width: 1200px) and (min-width: 1024px) {
-    .header-desk ul li:last-child {
-        padding-left: 30px;
+@media (min-width: 1024px) and (max-width: 1364px) {
+    html {
+        overflow-x: hidden;
+    }
+    .header-menu .left ul li {
+        padding-right: 22px;
     }
 
-    .header-desk ul li:last-child a {
-        padding: 0 20px;
-        font-size: 16px;
+    .header-menu .left a {
+        font-size: 12px;
     }
-
-    .header-desk ul li {
-        padding-left: 20px;
+    .item-news .avarta {
+        flex: 0 0 45%;
     }
-
-    .header-desk ul li a {
-        font-size: 15px;
+    .list-hot .readmore a {
+        display: none;
+    }
+    .header-menu .mega-menu {
+        width: 100%;
     }
 }

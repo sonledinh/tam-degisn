@@ -67,13 +67,14 @@ $('.slide-favorite').slick({
         {
             breakpoint: 767,
             settings: {
-                slidesToShow: 1,
+                slidesToShow: 3,
             }
         },
         {
             breakpoint: 480,
             settings: {
-                slidesToShow: 1,
+                infinite: false,
+                slidesToShow: 1.5,
             }
         }
     ]
@@ -86,8 +87,8 @@ $('.slide-tab').slick({
     dots: false,
     slidesToShow: 1.5,
     slidesToScroll: 1, 
-    prevArrow: '<button class="prev"><i class="fa fa-angle-left"></i></button>',
-    nextArrow: '<button class="next"><i class="fa fa-angle-right"></i></button>',
+    prevArrow: '',
+    nextArrow: '',
     responsive: [
         {
             breakpoint: 767,
@@ -117,7 +118,7 @@ $('.slide-feed').slick({
         {
             breakpoint: 767,
             settings: {
-                slidesToShow: 1,
+                slidesToShow: 2,
             }
         },
         {
@@ -167,13 +168,13 @@ $('.slide-other').slick({
         {
             breakpoint: 767,
             settings: {
-                slidesToShow: 1,
+                slidesToShow: 3,
             }
         },
         {
             breakpoint: 480,
             settings: {
-                slidesToShow: 1,
+                slidesToShow: 2,
             }
         }
     ]

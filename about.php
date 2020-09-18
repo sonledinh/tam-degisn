@@ -27,15 +27,15 @@
 					</div>
 				</div>
 			</div>
-			<div class="bn-about text-center"><img src="images/bn-about.svg" class="img-fluid w-100" alt=""></div>
+			<div class="bn-about text-center"><img src="images/bn-about.png" class="img-fluid w-100" alt=""></div>
 			<div class="team-about">
-				<div class="title text-center">TEAM</div>
-				<div class="avarta-team text-center"><img src="images/team.svg" class="img-fluid w-100" alt=""></div>
+				<div class="title text-center"><span>TEAM</span><div class="line"></div></div>
+				<div class="avarta-team text-center"><img src="images/team.png" class="img-fluid w-100" alt=""></div>
 				<div class="srv-about">
 					<div class="item">
-						<div class="row">
+						<div class="row"> 
 							<div class="col-md-6">
-								<div class="txt-srv">
+								<div class="txt-srv"> 
 									<h3>Đội ngũ KTS</h3>
 									<div class="desc">
 										<p>Tủ Tivi Behim Gỗ Walnut (Gỗ óc chó) thực sự là một thành phần quan trọng khó có thể thiếu đi trong không gian phòng khách.</p>
@@ -51,7 +51,7 @@
 								</div>
 							</div>
 							<div class="col-md-6">
-								<div class="img-srv"><img src="images/srv-1.svg" class="img-fluid w-100" alt=""></div>
+								<div class="img-srv"><img src="images/srv-1.png" class="img-fluid w-100" alt=""></div>
 							</div>
 						</div> 
 					</div>
@@ -59,7 +59,7 @@
 						<div class="row">
 							<div class="col-md-6">
 								<div class="txt-srv">
-									<h3>Đội ngũ KTS</h3>
+									<h3>NĂNG LỰC XƯỞNG</h3>
 									<div class="desc">
 										<p>Tủ Tivi Behim Gỗ Walnut (Gỗ óc chó) thực sự là một thành phần quan trọng khó có thể thiếu đi trong không gian phòng khách.</p>
 										<p>Là nơi đặt để Tivi hoặc nhiều vật dụng cần thiết.</p>
@@ -74,7 +74,7 @@
 								</div>
 							</div>
 							<div class="col-md-6">
-								<div class="img-srv"><img src="images/srv-1.svg" class="img-fluid w-100" alt=""></div>
+								<div class="img-srv"><img src="images/srv-2.png" class="img-fluid w-100" alt=""></div>
 							</div>
 						</div>
 					</div>
@@ -83,7 +83,7 @@
 			<div class="qtrinh">
 				<div class="title text-center">QUY TRÌNH SẢN XUẤT - TRẢI NGHIỆM</div>
 				<div class="info-qtrinh">
-					<p class="text-center"><img src="images/quytrinh.svg" class="img-fluid" alt=""></p>
+					<p class="text-center"><img src="images/quytrinh.png" class="img-fluid" alt=""></p>
 					<p>Giao hàng không tiếp xúc</p>
 					<p>Để giúp đảm bảo sức khỏe và sự an toàn của khách hàng, nhóm của chúng tôi và cộng đồng rộng lớn hơn, chúng tôi đã giới thiệu Giao hàng không tiếp xúc làm tùy chọn giao hàng mặc định của chúng tôi. Giao hàng không tiếp xúc có nghĩa là:</p>
 					<p>Chúng tôi sẽ giao (các) mặt hàng của bạn đến trước cửa nhà hoặc căn hộ của bạn</p>
@@ -98,7 +98,7 @@
 			<div class="forme">
 				<div class="title text-center">TINH TẾ NHƯ CHÍNH BẠN</div>
 				<div class="desc text-center">
-					<img src="images/forme.svg" class="img-fluid" alt="">
+					<img src="images/forme.png" class="img-fluid" alt="">
 				</div>
 			</div>
 		</div>
