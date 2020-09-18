@@ -41,7 +41,7 @@ $('.slide-banner').slick({
     nextArrow: '',
     responsive: [
         {
-            breakpoint: 767,
+            breakpoint: 767, 
             settings: {
                 slidesToShow: 1,
             }
@@ -223,4 +223,14 @@ $('.slider-nav').slick({
     focusOnSelect: true,
     prevArrow: '<button class="prev"><i class="fa fa-angle-left"></i></button>',
     nextArrow: '<button class="next"><i class="fa fa-angle-right"></i></button>',
+});
+
+
+jQuery(document).ready(function( $ ) {
+  $("#menu").mmenu({
+     "extensions": [
+        "fx-menu-zoom"
+     ],
+     "counters": true
+  });
 });

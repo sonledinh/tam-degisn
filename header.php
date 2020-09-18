@@ -120,12 +120,6 @@
                                                     <h3><a href="">Ghế Sofa</a></h3>
                                                 </div>
                                             </li>
-                                            <li>
-                                                <div class="item text-center">
-                                                    <div class="avarta"><a href=""><img src="images/mega.jpg" class="img-fluid" alt=""></a></div>
-                                                    <h3><a href="">Ghế Sofa</a></h3>
-                                                </div>
-                                            </li>
                                         </ul>
                                     </div>
                                 </li>
@@ -198,5 +192,60 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="menu-mobile d-none">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-5 col-5 col-sm-5">
+                        <div class="logo"> 
+                            <a title="" href="index.php"><img alt="" src="images/logo.svg" class="img-fluid avarta-logo" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="col-md-7 col-7 col-sm-7">
+                        <div class="right-mobile text-right">
+                            <ul class="text-right">
+                                <li>
+                                    <a href="javascript:void(0)"><img src="images/head-2.svg" class="img-fluid" alt=""></a>
+                                    <div class="hver-user">
+                                        <div class="head-user">
+                                            <p>Đăng nhập hoặc đăng ký để lưu <br>sản phẩm yêu thích.</p>
+                                            <div class="head-lg">
+                                                <label>ĐĂNG NHẬP BẰNG FACEBOOK</label>
+                                                <a href=""><img src="images/fb.svg" class="img-fluid" alt=""></a>
+                                            </div>
+                                            <div class="head-lg">
+                                                <label>ĐỊA CHỈ EMAIL</label>
+                                                <input type="text" placeholder="Ghi địa chỉ Email của bạn tại đây">
+                                                <label for="">MẬT KHẨU</label>
+                                                <input type="password" placeholder="*************">
+                                                <div class="btn-head text-center">
+                                                    <button class="text-uppercase">Tiếp tục</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li><a href=""><img src="images/head-3.svg" class="img-fluid" alt=""></a></li>
+                                <li><a href=""><img src="images/head-4.svg" class="img-fluid" alt=""></a></li>
+                                <li><a title="" href="#menu"><i class="fa fa-bars"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <nav id="menu">
+                <ul>
+                    <li>
+                        <input type="text" placeholder="Nhập từ khóa tìm kiếm">
+                        <button><i class="fa fa-search"></i></button>
+                    </li>
+                    <li><a href="">Phòng Ngủ</a></li>
+                    <li><a href="">Hàng Trang Trí </a></li>
+                    <li><a href="">K’light </a></li>
+                    <li><a href="">Phòng Ngủ</a></li>
+                    <li><a href="">Hàng Trang Trí </a></li>
+                    <li><a href="">K’light </a></li>
+                </ul>
+            </nav>
         </div>
     </header>     
