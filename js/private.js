@@ -29,6 +29,11 @@ $(document).ready(function() {
         e.preventDefault();
         $(this).toggleClass('active');
     });
+
+    $('.pr-color a').on('click', function (e) {
+        $('.pr-color a').removeClass('active');
+        $(this).addClass('active');
+    });
 })
 
 $('.slide-banner').slick({

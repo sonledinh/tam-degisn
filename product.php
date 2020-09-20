@@ -41,7 +41,7 @@
 								<div class="price text-left">10.500.000 VNĐ</div>
 								<div class="pr-color">
 		                        	<ul class="list-inline">
-		                        		<li class="list-inline-item"><a href="javascript:void(0)" class="active"><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
+		                        		<li class="list-inline-item"><a href="javascript:void(0)" class=""><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-2.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-3.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-4.webp" class="img-fluid" alt=""></a></li>
@@ -58,7 +58,7 @@
 								<div class="price text-left">10.500.000 VNĐ</div>
 								<div class="pr-color">
 		                        	<ul class="list-inline">
-		                        		<li class="list-inline-item"><a href="javascript:void(0)" class="active"><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
+		                        		<li class="list-inline-item"><a href="javascript:void(0)" class=""><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-2.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-3.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-4.webp" class="img-fluid" alt=""></a></li>
@@ -75,7 +75,7 @@
 								<div class="price text-left">10.500.000 VNĐ</div>
 								<div class="pr-color">
 		                        	<ul class="list-inline">
-		                        		<li class="list-inline-item"><a href="javascript:void(0)" class="active"><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
+		                        		<li class="list-inline-item"><a href="javascript:void(0)" class=""><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-2.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-3.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-4.webp" class="img-fluid" alt=""></a></li>
@@ -92,7 +92,7 @@
 								<div class="price text-left">10.500.000 VNĐ</div>
 								<div class="pr-color">
 		                        	<ul class="list-inline">
-		                        		<li class="list-inline-item"><a href="javascript:void(0)" class="active"><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
+		                        		<li class="list-inline-item"><a href="javascript:void(0)" class=""><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-2.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-3.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-4.webp" class="img-fluid" alt=""></a></li>
@@ -109,7 +109,7 @@
 								<div class="price text-left">10.500.000 VNĐ</div>
 								<div class="pr-color">
 		                        	<ul class="list-inline">
-		                        		<li class="list-inline-item"><a href="javascript:void(0)" class="active"><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
+		                        		<li class="list-inline-item"><a href="javascript:void(0)" class=""><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-2.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-3.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-4.webp" class="img-fluid" alt=""></a></li>
@@ -126,7 +126,7 @@
 								<div class="price text-left">10.500.000 VNĐ</div>
 								<div class="pr-color">
 		                        	<ul class="list-inline">
-		                        		<li class="list-inline-item"><a href="javascript:void(0)" class="active"><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
+		                        		<li class="list-inline-item"><a href="javascript:void(0)" class=""><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-2.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-3.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-4.webp" class="img-fluid" alt=""></a></li>
@@ -143,7 +143,7 @@
 								<div class="price text-left">10.500.000 VNĐ</div>
 								<div class="pr-color">
 		                        	<ul class="list-inline">
-		                        		<li class="list-inline-item"><a href="javascript:void(0)" class="active"><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
+		                        		<li class="list-inline-item"><a href="javascript:void(0)" class=""><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-2.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-3.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-4.webp" class="img-fluid" alt=""></a></li>
@@ -160,7 +160,7 @@
 								<div class="price text-left">10.500.000 VNĐ</div>
 								<div class="pr-color">
 		                        	<ul class="list-inline">
-		                        		<li class="list-inline-item"><a href="javascript:void(0)" class="active"><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
+		                        		<li class="list-inline-item"><a href="javascript:void(0)" class=""><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-2.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-3.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-4.webp" class="img-fluid" alt=""></a></li>
@@ -177,7 +177,7 @@
 								<div class="price text-left">10.500.000 VNĐ</div>
 								<div class="pr-color">
 		                        	<ul class="list-inline">
-		                        		<li class="list-inline-item"><a href="javascript:void(0)" class="active"><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
+		                        		<li class="list-inline-item"><a href="javascript:void(0)" class=""><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-2.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-3.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-4.webp" class="img-fluid" alt=""></a></li>
@@ -194,7 +194,7 @@
 								<div class="price text-left">10.500.000 VNĐ</div>
 								<div class="pr-color">
 		                        	<ul class="list-inline">
-		                        		<li class="list-inline-item"><a href="javascript:void(0)" class="active"><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
+		                        		<li class="list-inline-item"><a href="javascript:void(0)" class=""><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-2.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-3.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-4.webp" class="img-fluid" alt=""></a></li>
@@ -211,7 +211,7 @@
 								<div class="price text-left">10.500.000 VNĐ</div>
 								<div class="pr-color">
 		                        	<ul class="list-inline">
-		                        		<li class="list-inline-item"><a href="javascript:void(0)" class="active"><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
+		                        		<li class="list-inline-item"><a href="javascript:void(0)" class=""><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-2.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-3.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-4.webp" class="img-fluid" alt=""></a></li>
@@ -228,7 +228,7 @@
 								<div class="price text-left">10.500.000 VNĐ</div>
 								<div class="pr-color">
 		                        	<ul class="list-inline">
-		                        		<li class="list-inline-item"><a href="javascript:void(0)" class="active"><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
+		                        		<li class="list-inline-item"><a href="javascript:void(0)" class=""><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-2.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-3.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-4.webp" class="img-fluid" alt=""></a></li>
@@ -245,7 +245,7 @@
 								<div class="price text-left">10.500.000 VNĐ</div>
 								<div class="pr-color">
 		                        	<ul class="list-inline">
-		                        		<li class="list-inline-item"><a href="javascript:void(0)" class="active"><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
+		                        		<li class="list-inline-item"><a href="javascript:void(0)" class=""><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-2.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-3.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-4.webp" class="img-fluid" alt=""></a></li>
@@ -262,7 +262,7 @@
 								<div class="price text-left">10.500.000 VNĐ</div>
 								<div class="pr-color">
 		                        	<ul class="list-inline">
-		                        		<li class="list-inline-item"><a href="javascript:void(0)" class="active"><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
+		                        		<li class="list-inline-item"><a href="javascript:void(0)" class=""><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-2.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-3.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-4.webp" class="img-fluid" alt=""></a></li>
@@ -279,7 +279,7 @@
 								<div class="price text-left">10.500.000 VNĐ</div>
 								<div class="pr-color">
 		                        	<ul class="list-inline">
-		                        		<li class="list-inline-item"><a href="javascript:void(0)" class="active"><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
+		                        		<li class="list-inline-item"><a href="javascript:void(0)" class=""><img src="images/color-1.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-2.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-3.webp" class="img-fluid" alt=""></a></li>
 		                        		<li class="list-inline-item"><a href="javascript:void(0)"><img src="images/color-4.webp" class="img-fluid" alt=""></a></li>
