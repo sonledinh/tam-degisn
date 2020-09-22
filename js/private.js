@@ -34,7 +34,8 @@ $(document).ready(function() {
         $('.pr-color a').removeClass('active');
         $(this).addClass('active');
     });
-})
+    // $('.head-user input').attr('autocomplete', 'off');
+}) 
 
 $('.slide-banner').slick({
     autoplay: false,

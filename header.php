@@ -143,13 +143,15 @@
                                                 <a href=""><img src="images/fb.svg" class="img-fluid" alt=""></a>
                                             </div>
                                             <div class="head-lg">
-                                                <label>ĐỊA CHỈ EMAIL</label>
-                                                <input type="text" placeholder="Ghi địa chỉ Email của bạn tại đây">
-                                                <label for="">MẬT KHẨU</label>
-                                                <input type="password" placeholder="*************">
-                                                <div class="btn-head text-center">
-                                                    <button class="text-uppercase">Tiếp tục</button>
-                                                </div>
+                                                <form action="">
+                                                    <label>ĐỊA CHỈ EMAIL</label>
+                                                    <input type="text" placeholder="Ghi địa chỉ Email của bạn tại đây" autocomplete="new-text" />
+                                                    <label for="">MẬT KHẨU</label>
+                                                    <input type="password" placeholder="Mật khẩu" value="123123123123" autocomplete="new-password" />
+                                                    <div class="btn-head text-center"> 
+                                                        <button class="text-uppercase">Tiếp tục</button>
+                                                    </div> 
+                                                </form>
                                             </div>
                                         </div>
                                     </div>

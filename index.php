@@ -41,7 +41,7 @@
 						<div class="icon"><img src="images/srv-4.png" class="img-fluid" alt=""></div>
 						<div class="desc">Bảo Hành 5 Năm</div>
 					</div>
-				</div>
+				</div> 
 			</div> 
 		</div>
 	</section>
