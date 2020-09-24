@@ -30,9 +30,36 @@
 			</div>
 			<div class="list-contact">
 				<ul>
-					<li><a href=""><img src="images/contact-1.svg" class="img-fluid" alt=""></a></li>
-					<li><a href=""><img src="images/contact-2.svg" class="img-fluid" alt=""></a></li>
-					<li><a href=""><img src="images/contact-3.svg" class="img-fluid" alt=""></a></li>
+					<li>
+						<div class="item text-center">
+							<div class="icon"><img src="images/ctn-1.png" class="img-fluid" alt=""></div>
+							<div class="info-ctn">
+								<h3>Trò chuyện với chúng tôi</h3>
+								<div class="btn-ctn text-uppercase"><a href="">Trò chuyện trực tiếp</a></div>
+								<p>Mở cửa ....</p>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="item text-center">
+							<div class="icon"><img src="images/ctn-2.png" class="img-fluid" alt=""></div>
+							<div class="info-ctn">
+								<h3>Gọi cho chúng tôi</h3>
+								<div class="btn-ctn text-uppercase"><a href="">0123456789</a></div>
+								<p>Mở cửa ....</p>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="item text-center">
+							<div class="icon"><img src="images/ctn-3.png" class="img-fluid" alt=""></div>
+							<div class="info-ctn">
+								<h3>Gửi tin nhắn cho chúng tôi</h3>
+								<div class="btn-ctn text-uppercase"><a href="">Liên hệ với chúng tôi</a></div>
+								<p>Mở cửa ....</p>
+							</div>
+						</div>
+					</li>
 				</ul>
 			</div>
 			<div class="contact-container showroom">

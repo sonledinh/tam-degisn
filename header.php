@@ -132,7 +132,13 @@
                     <div class="col-md-3">
                         <div class="right header-right">
                             <ul class="text-right">
-                                <li><a href=""><img src="images/head-1.svg" class="img-fluid" alt=""></a></li>
+                                <li>
+                                    <a href=""><img src="images/head-1.svg" class="img-fluid" alt=""></a>
+                                    <div class="box-search-head">
+                                        <input type="text" placeholder="Nhập từ khóa tìm kiếm ...">
+                                        <button type="submit"><i class="fa fa-search"></i></button>
+                                    </div>
+                                </li>
                                 <li>
                                     <a href=""><img src="images/head-2.svg" class="img-fluid" alt=""></a>
                                     <div class="hver-user">
